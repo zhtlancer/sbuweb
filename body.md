@@ -1,6 +1,4 @@
 
-<link rel='stylesheet' href='markdown5.css'/>
-
 # Tao Zhang
 
 ***
