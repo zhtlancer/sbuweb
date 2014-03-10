@@ -1,5 +1,16 @@
 
 # Tao Zhang
+<img src="imgs/zhtao_small.jpg" alt="Ming's Photo" style="float: right; width: 300px" />
+
+Ph.D. Student @
+
+[Computer Science Department](http://www.cs.stonybrook.edu) @
+
+[Stony Brook University](http://www.stonybrook.edu)
+
+Email: zhtao [AT] cs [DOT] stonybrook [DOT] edu
+
+My CV: *Not ready yet : (*
 
 ***
 
