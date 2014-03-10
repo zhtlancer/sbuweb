@@ -2,15 +2,15 @@
 # Tao Zhang
 <img src="imgs/zhtao.jpg" alt="Tao's Photo" style="float: right; width: 300px" />
 
-Ph.D. Student @
+>Ph.D. Student @
 
-[Computer Science Department](http://www.cs.stonybrook.edu) @
+>[Computer Science Department](http://www.cs.stonybrook.edu) @
 
-[Stony Brook University](http://www.stonybrook.edu)
+>[Stony Brook University](http://www.stonybrook.edu)
 
-Email: zhtao [AT] cs [DOT] stonybrook [DOT] edu
+>Email: zhtao [AT] cs [DOT] stonybrook [DOT] edu
 
-My CV: *Not ready yet : (*
+>My CV: *Not ready yet : (*
 
 ***
 
