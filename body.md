@@ -1,6 +1,6 @@
 
 # Tao Zhang
-<img src="imgs/zhtao_small.jpg" alt="Ming's Photo" style="float: right; width: 300px" />
+<img src="imgs/zhtao.jpg" alt="Tao's Photo" style="float: right; width: 300px" />
 
 Ph.D. Student @
 
