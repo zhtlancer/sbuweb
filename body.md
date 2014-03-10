@@ -1,10 +1,11 @@
 
 # Tao Zhang
+
 <img src="imgs/zhtao.jpg" alt="Tao's Photo" style="float: right; width: 300px" />
 
->Ph.D. Student @
+>Ph.D. Student @ \
 
->[Computer Science Department](http://www.cs.stonybrook.edu) @
+>[Computer Science Department](http://www.cs.stonybrook.edu) @ \
 
 >[Stony Brook University](http://www.stonybrook.edu)
 
@@ -18,8 +19,6 @@
 
 I'm a first year PhD student at Computer Science Department of Stony Brook University.
 I'm currently working with [Prof. Donald Porter](http://www.cs.stonybrook.edu/~porter/) in [OSCAR lab](http://oscar.cs.stonybrook.edu/).
-
-You can contact me via zhtao (at) cs.stonybrook.edu.
 
 ## Education
 * M.S. in Computer Science, [Peking University](http://www.pku.edu.cn/), P.R.China, Jul. 2013
