@@ -5,22 +5,24 @@
 
 >Ph.D. Student @ \
 
->[Computer Science Department](http://www.cs.stonybrook.edu) @ \
+>[Computer Science Department](http://www.cs.unc.edu) @ \
 
->[Stony Brook University](http://www.stonybrook.edu)
+>[The University of North Carolina at Chapel Hill](http://www.unc.edu)
 
->Email: zhtao [AT] cs [DOT] stonybrook [DOT] edu
+>Email: zhtao [AT] cs [DOT] unc [DOT] edu
 
->My CV: *Not ready yet : (*
+>[My CV](files/cv-TaoZhang.pdf)
 
 ***
 
 ## About me
 
-I'm a first year PhD student at Computer Science Department of Stony Brook University.
-I'm currently working with [Prof. Donald Porter](http://www.cs.stonybrook.edu/~porter/) in [OSCAR lab](http://oscar.cs.stonybrook.edu/).
+I'm a fourth year PhD student at Computer Science Department of UNC-Chapel Hill.
+I'm currently working with [Prof. Donald Porter](http://www.cs.unc.edu/~porter/) in [OSCAR lab](http://oscar.cs.stonybrook.edu/).
+We moved from [Stony Brook University](http://www.stonybrook.edu/) to UNC-Chapel Hill in the summer of 2016.
 
 ## Education
+* M.S. in Computer Science, [Stony Brook University](http://www.stonybrook.edu/), Aug. 2016
 * M.S. in Computer Science, [Peking University](http://www.pku.edu.cn/), P.R.China, Jul. 2013
 * B.S. in Computer Science, [Peking University](http://www.pku.edu.cn/), P.R.China, Jul. 2010
 
